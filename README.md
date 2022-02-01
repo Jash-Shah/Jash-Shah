@@ -1,5 +1,5 @@
 
-<img width="600" height="300" src="https://github.com/Jash-Shah/Jash-Shah/blob/main/resources/Jash%20Shah%20Banner.png">
+<img width="1000" height="400" src="https://github.com/Jash-Shah/Jash-Shah/blob/main/resources/Jash%20Shah%20Banner.png">
 
 <h1 align="center">Hi 👋, I'm Jash Shah</h1>  
 <h3 align="center">An ever curious explorer to the Tech world.</h3>  
