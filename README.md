@@ -16,7 +16,7 @@
   
 - 📫 How to reach me **jash28582@gmail.com**  
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zF63htpYAJQ7JbJhKMyxPlsfxZ5IMRZA/view?usp=sharing)  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kulcDTn12jeD24_E6Lp8cJ6EzUeJTOG_/view?usp=sharing)  
   
 - ⚡ Fun fact **I love teaching just as much as learning.**  
   
