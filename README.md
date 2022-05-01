@@ -22,7 +22,7 @@
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-<a href="https://linkedin.com/in/jash shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jash shah" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/jash-shah-416173213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jash shah" height="30" width="40" /></a>  
 <a href="https://instagram.com/s_jash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_jash" height="30" width="40" /></a>  
 </p>  
   
