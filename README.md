@@ -6,17 +6,17 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jash-shah&label=Profile%20views&color=0e75b6&style=flat" alt="jash-shah" /> </p>  
   
-- 🏍️ I’m currently working on [Dairy Bike](https://github.com/Jash-Shah/Dairy-Bike-E-Yantra)  
+- 🏍️ I’m currently working on [Google Summer Of Code](https://summerofcode.withgoogle.com/programs/2022/projects/8xPSxHSE)  
   
-- 🌱 I’m currently learning **ML, Data Science, Web-Dev Frameworks.**  
+- 🌱 I’m currently learning **NumPy C-API, Python extensions, Swarm Robotics, ML, Web-Dev Frameworks.**  
   
-- 👯 I’m looking to collaborate on **ML, CV, Simulator based projects.**  
+- 👯 I’m looking to collaborate on **Robotics, Simulator, CV, ML based projects.**  
   
-- 💬 Ask me about **Simulators, Python, Flask.**  
+- 💬 Ask me about **Robotics, Simulators, Python.**  
   
 - 📫 How to reach me **jash28582@gmail.com**  
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10-TgRaKZfufSaBJ4I8NyeK5RyS7saxnF/view?usp=sharing)  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xfV9zWQTXk25JDfMc1LmV-ljn4ViI6dM/view?usp=sharing)  
   
 - ⚡ Fun fact **I love teaching just as much as learning.**  
   
