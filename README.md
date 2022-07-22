@@ -7,7 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jash-shah&label=Profile%20views&color=0e75b6&style=flat" alt="jash-shah" /> </p>  
   
 - 🏍️ I’m currently working on [Google Summer Of Code](https://summerofcode.withgoogle.com/programs/2022/projects/8xPSxHSE)  
-  
+
+- ✏️ Check out my [Blogs](https://jash-shah.github.io/Blogs/).
+
 - 🌱 I’m currently learning **NumPy C-API, Python extensions, Swarm Robotics, ML, Web-Dev Frameworks.**  
   
 - 👯 I’m looking to collaborate on **Robotics, Simulator, CV, ML based projects.**  
