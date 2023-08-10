@@ -6,21 +6,21 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jash-shah&label=Profile%20views&color=0e75b6&style=flat" alt="jash-shah" /> </p>  
   
-- 🏍️ I’m currently working on [Google Summer Of Code](https://summerofcode.withgoogle.com/programs/2022/projects/8xPSxHSE)  
+- 💼 I’ve interned at [D.E. Shaw India](https://www.deshawindia.com/) and [Google Summer Of Code](https://summerofcode.withgoogle.com/programs/2022/projects/8xPSxHSE).
 
 - ✏️ Check out my [Blogs](https://jash-shah.github.io/Blogs/).
 
-- 🌱 I’m currently learning **NumPy C-API, Python extensions, Swarm Robotics, ML, Web-Dev Frameworks.**  
+- 🌱 I’m currently learning **AI/ML frameworks, Full Stack Development, Data Science and Analysis and Competitive Programming.**
   
-- 👯 I’m looking to collaborate on **Robotics, Simulator, CV, ML based projects.**  
+- 👯 I’m looking to collaborate on **Research, and AI/ML-based projects.**  
   
-- 💬 Ask me about **Robotics, Simulators, Python.**  
+- 💬 Ask me about **Python projects and Hackathons**.  
   
 - 📫 How to reach me **jash28582@gmail.com**  
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xfV9zWQTXk25JDfMc1LmV-ljn4ViI6dM/view?usp=sharing)  
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1xfV9zWQTXk25JDfMc1LmV-ljn4ViI6dM/view?usp=sharing](https://drive.google.com/drive/folders/12zIvaoVuAMeg7h5vJYTYchU1HEO6RnHH?usp=drive_link))  
   
-- ⚡ Fun fact **I love teaching just as much as learning.**  
+- ⚡ Fun fact **I love teaching just as much as learning**, **I love managing technical people and solving organizational challenges**.
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
